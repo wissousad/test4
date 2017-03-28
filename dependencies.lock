@@ -1,0 +1,10 @@
+{
+  "com.heroku.sdk:heroku-jdbc": { "locked": "0.1.1", "requested": "0.1.1" },
+  "io.ratpack:ratpack-core": { "locked": "1.4.5", "requested": "1.4.5" },
+  "io.ratpack:ratpack-groovy": { "locked": "1.4.5", "requested": "1.4.5" },
+  "io.ratpack:ratpack-groovy-test": { "locked": "1.4.5", "requested": "1.4.5" },
+  "io.ratpack:ratpack-test": { "locked": "1.4.5", "requested": "1.4.5" },
+  "junit:junit": { "locked": "4.11", "requested": "4.11" },
+  "org.postgresql:postgresql": { "locked": "9.4-1201-jdbc4", "requested": "9.4-1201-jdbc4" },
+  "org.slf4j:slf4j-simple": { "locked": "1.7.12", "requested": "1.7.12" }
+}
